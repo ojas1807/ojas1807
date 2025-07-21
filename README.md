@@ -1,15 +1,4 @@
-<img src="./header-image.png" width="75%">
 
-<a href="https://u8views.com/github/ojaspatrikar">
-  <img src="https://u8views.com/api/v1/github/profiles/YOUR_GITHUB_USER_ID/views/day-week-month-total-count.svg">
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ojaspatrikar&show_icons=true&locale=en&theme=radical" alt="ojaspatrikar" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojaspatrikar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="ojaspatrikar" />
-</a>
 
 ## 📖 About Me
 
