@@ -61,10 +61,9 @@
 
 ### 📈 GitHub Stats
 
-![Ojas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojaspatrikar15&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaspatrikar15&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ojaspatrikar15&theme=radical&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=ojaspatrikar15&style=flat-square&color=brightgreen)
+[![Ojas Patrikar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojaspatrikar15&theme=algolia&show_icons=true)](https://github.com/ojaspatrikar15)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ojaspatrikar15&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/ojaspatrikar15)
+
 
 ---
 
