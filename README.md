@@ -35,13 +35,8 @@ Let’s connect and build the future together!
 
 [![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com)
 [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com)
-[![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://www.docker.com)
 [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com)
 
-### Build Tools
-
-[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vite.dev)
-[![Gradle](https://go-skill-icons.vercel.app/api/icons?i=gradle)](https://gradle.org)
 
 ### Languages
 
@@ -58,13 +53,4 @@ Let’s connect and build the future together!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-patrikar-2aa05b258/)
 [![Discord](https://img.shields.io/badge/Discord-ojas%235353-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ojas%235353)
 
----
-
-## 🟢 Activities
-
-I’m constantly improving my stack, working on personal projects, and contributing to open-source.  
-I love experimenting with new frameworks and building tools that solve real-world problems.  
-When I’m not coding, you’ll find me listening to tech podcasts or exploring the city with music 🎧.
-
----
 
