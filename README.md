@@ -7,15 +7,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-### 📖 About Me
+### 🧑‍💻 About Me
 
-👨‍💻 I’m Ojas Patrikar, an Information Technology undergraduate at APSIT (Batch of 2026) and currently serving as the Student Head of the Training & Placement Cell. I thrive at the intersection of technology, learning, and leadership—connecting students to industry opportunities and promoting a tech-forward mindset.
-
-I'm passionate about crafting scalable, intelligent, and impactful solutions. From building web applications and RESTful APIs to diving into Generative AI and Data Science, I constantly push my boundaries with curiosity and hands-on experimentation. 
-
-Outside of tech, I’m a strategic gamer, music enthusiast, and a firm believer in continuous learning. I'm always open to internships, collaborations, or research in AI, software engineering, and innovative tech.
-
-Let’s connect and build the future together!
+- 🔭 I’m currently working as **Business Development Intern @DataVentics**
+- 👨‍💻 Passionate about **Java**, **Web Development**, and **Supabase**
+- 💡 Learning **AI + Product Building**
+- 💬 Ask me about **Tech, Internships, or Building Projects**
+- 📫 Reach me at: `ojaspatrikar15@gmail.com`
 
 ---
 
