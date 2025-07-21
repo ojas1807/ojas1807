@@ -59,13 +59,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-[![Ojas Patrikar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojaspatrikar15&theme=algolia&show_icons=true)](https://github.com/ojaspatrikar15)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ojaspatrikar15&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/ojaspatrikar15)
-
-
----
 
 ### 🌐 Connect With Me
 
