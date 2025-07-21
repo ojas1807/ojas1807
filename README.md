@@ -1,73 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ojas Patrikar</h1>
-<h3 align="center">Full Stack Developer | Web3 & AI Enthusiast</h3>
+<img src="./header-image.png" width="75%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ojaspatrikar&label=Profile%20views&color=0e75b6&style=flat" alt="ojaspatrikar" />
-</p>
+<a href="https://u8views.com/github/meenbeese"><img src="https://u8views.com/api/v1/github/profiles/114044633/views/day-week-month-total-count.svg"></a>
 
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meenbeese&show_icons=true&locale=en&repo=convoychat&theme=radical" alt="meenbeese" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenbeese&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="meenbeese" />
+</a>
 
-## 🧑‍💻 About Me
+## 📖 About Me
 
-I'm a passionate developer from India with a keen interest in web development, AI, and data science.  
-I love contributing to open-source projects and learning new technologies.  
+I am a passionate developer and student from Canada with a keen interest in web development and artificial intelligence. I love programming and contributing to open source projects in my free time. I am always eager to learn new technologies and collaborate with others in the ever-growing tech community in the hope of improving everyone's lives through advancements in technology.
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
-- 👯 I’m looking to collaborate on **AI/Web3 projects**
-- 💬 Ask me about **React, Flask, Node.js, Supabase**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ojas-patrikar-2aa05b258/) | [Email](mailto:ojaspatrikar15@gmail.com)
-- ⚡ Fun fact: I believe **code + chai** solves most problems 😄
-
----
-
-## 🛠️ Skills
+## 💪 Skills
 
 ### Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://html.spec.whatwg.org/multipage)
+[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3.org/Style/CSS)
+[![Svelte](https://go-skill-icons.vercel.app/api/icons?i=svelte)](https://svelte.dev)
+[![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://react.dev)
+[![Next](https://go-skill-icons.vercel.app/api/icons?i=next)](https://nextjs.org)
+[![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind)](https://tailwindcss.com/)
+[![Alpine](https://go-skill-icons.vercel.app/api/icons?i=alpinejs)](https://alpinejs.dev/)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
 
-### DevOps & Tools
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+[![Node](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://go-skill-icons.vercel.app/api/icons?i=express)](https://expressjs.com)
+[![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask)](https://palletsprojects.com/projects/flask)
+[![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma)](https://www.prisma.io)
+[![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)](https://firebase.google.com)
+
+### DevOps
+
+[![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://www.docker.com)
+[![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com)
+[![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com)
+[![PowerShell](https://go-skill-icons.vercel.app/api/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
+
+### Build Tools
+
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vite.dev)
+[![Rollup](https://go-skill-icons.vercel.app/api/icons?i=rollup)](https://rollupjs.org)
+[![Gradle](https://go-skill-icons.vercel.app/api/icons?i=gradle)](https://gradle.org/)
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 
----
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
+[![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.oracle.com/java)
+[![Kotlin](https://go-skill-icons.vercel.app/api/icons?i=kotlin)](https://www.kotlinlang.org/)
+[![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua)](https://www.lua.org/)
+[![Nim](https://go-skill-icons.vercel.app/api/icons?i=nim)](https://nim-lang.org)
 
-## 📊 GitHub Stats
+## 📥 Contact Me
 
-![Ojas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojaspatrikar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaspatrikar&layout=compact&theme=tokyonight)
+[![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kuzeybilgin@proton.me)
+[![Signal](https://img.shields.io/badge/Signal-3B45FD?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/CnwK7vX25Zkyg13ApVzKwOmU7IKQeyZ2NLS56QK7098yFuJdGN5FnLQ_qH2dHDyA)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781235909776506890)
 
----
+## 🟢 Activities
 
-## 📬 Contact Me
+I am always working on practising my stack and continuing to build and release new fullstack apps every day. I also work on a interesting side projects here and there if I think a good enough solution does not exist, and release it for everyone to use. <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ojas-patrikar-2aa05b258/)  
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-blue?style=flat-square&logo=gmail)](mailto:ojaspatrikar15@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-ojas%235353-7289DA?style=flat-square&logo=discord)](https://discord.com/users/ojas%235353)
-
----
-
-## 🧠 Activities
-
-- I love exploring new tech and building real-world projects.
-- I write and read tech blogs, listen to podcasts.
-- I contribute to open source when I can.
-- I’m currently contributing to a few full-stack projects and working on a startup idea.
+I also many hobbies like reading, and listening to podcasts and walking around <br> 
+the city. Yes, the computer screen can indeed be consuming sometimes :)
