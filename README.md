@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojas Patrikar</h1>
-<h3 align="center">🚀 Third-Year BE Student at A.P. Shah Institute of Technology | Crafting MERN Projects, Exploring Java, and Diving into Machine Learning 🌟</h3>
+<h3 align="center">🚀 Fourth-Year BE Student at A.P. Shah Institute of Technology | Crafting MERN Projects, Exploring Java, and Diving into Machine Learning 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojas1807&label=Profile%20views&color=0e75b6&style=flat" alt="ojas1807" /> </p>
 
