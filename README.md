@@ -1,56 +1,53 @@
+<!-- GitHub Profile README -->
 
+<h1 align="center">Hi 👋, I'm Ojas Patrikar</h1>
+<h3 align="center">🚀 Business Development Intern | 💻 Web Developer | ☕ Java Enthusiast | 🧠 Generative AI Explorer</h3>
 
-## 📖 About Me
+---
 
-👨‍💻 About Me
-I’m Ojas Patrikar, an Information Technology undergraduate at APSIT (Batch of 2026) and currently serving as the Student Head of the Training & Placement Cell. I thrive at the intersection of technology, learning, and leadership—connecting students to industry opportunities and promoting a tech-forward mindset.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I'm passionate about crafting scalable, intelligent, and impactful solutions. From building web applications and RESTful APIs to diving into Generative AI and Data Science, I constantly push my boundaries with curiosity and hands-on experimentation.
+### 📖 About Me
+
+👨‍💻 I’m Ojas Patrikar, an Information Technology undergraduate at APSIT (Batch of 2026) and currently serving as the Student Head of the Training & Placement Cell. I thrive at the intersection of technology, learning, and leadership—connecting students to industry opportunities and promoting a tech-forward mindset.
+
+I'm passionate about crafting scalable, intelligent, and impactful solutions. From building web applications and RESTful APIs to diving into Generative AI and Data Science, I constantly push my boundaries with curiosity and hands-on experimentation. 
+
 Outside of tech, I’m a strategic gamer, music enthusiast, and a firm believer in continuous learning. I'm always open to internships, collaborations, or research in AI, software engineering, and innovative tech.
 
 Let’s connect and build the future together!
 
 ---
 
-## 💪 Skills
+### 🛠️ Tech Stack
 
-### Frontend
-
-[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://html.spec.whatwg.org/multipage)
-[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3.org/Style/CSS)
-[![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://react.dev)
-[![Next](https://go-skill-icons.vercel.app/api/icons?i=next)](https://nextjs.org)
-[![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind)](https://tailwindcss.com/)
-[![Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=bootstrap)](https://getbootstrap.com)
-
-### Backend
-
-[![Node](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org/)
-[![Express](https://go-skill-icons.vercel.app/api/icons?i=express)](https://expressjs.com)
-[![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask)](https://palletsprojects.com/projects/flask)
-[![Supabase](https://go-skill-icons.vercel.app/api/icons?i=supabase)](https://supabase.com)
-[![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)](https://firebase.google.com)
-
-### DevOps & Tools
-
-[![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com)
-[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com)
-[![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com)
-
-
-### Languages
-
-[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
-[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
-[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
-[![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.oracle.com/java)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📥 Contact Me
+### 📈 GitHub Stats
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojaspatrikar15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-patrikar-2aa05b258/)
-[![Discord](https://img.shields.io/badge/Discord-ojas%235353-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ojas%235353)
+![Ojas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojaspatrikar15&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaspatrikar15&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ojaspatrikar15&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ojaspatrikar15&style=flat-square&color=brightgreen)
 
+---
 
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ojaspatrikar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ojas-patrikar-2aa05b258/)
+[![Discord](https://img.shields.io/badge/Discord-ojas%235353-7289DA?style=flat&logo=discord)](https://discord.com/users/ojas#5353)
+[![Gmail](https://img.shields.io/badge/Gmail-ojaspatrikar15@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ojaspatrikar15@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Awesome!;Always+Learning+and+Building..." />
+</p>
